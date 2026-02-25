@@ -1,0 +1,15 @@
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scipy>=1.7.0
+
+# Optional — for richer sentiment analysis (can replace built-in)
+# nltk>=3.6.0
+
+# Optional — for SHAP explainability plots
+# shap>=0.40.0
+
+# Optional — for Streamlit UI
+# streamlit>=1.10.0
